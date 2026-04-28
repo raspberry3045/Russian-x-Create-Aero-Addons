@@ -1,0 +1,9 @@
+{
+	"itemGroup.createsensors": "Create Sensors",
+    "block.createsensors.impact_sensor": "Датчик удара",
+    "block.createsensors.impact_fuze": "Ударный взрыватель",
+    "block.createsensors.proximity_sensor": "Датчик приближения",
+	"block.createsensors.impact_sensor.tooltip.summary": "Выдаёт _редстоун-сигнал_ при обнаружении резкого замедления.",
+	"block.createsensors.impact_fuze.tooltip.summary": "_Взрывается_ при обнаружении резкого замедления. Для активации требуется _редстоун-сигнал_.",
+	"block.createsensors.proximity_sensor.tooltip.summary": "Выдаёт _редстоун-сигнал_, когда штуковина попадает в радиус действия датчика."
+}
